@@ -1,0 +1,8 @@
+l<BODY>
+ <TEMP-HREF=.BIO , "'" , ;>
+  <THREF> 'BIOS' , <".tgi",> = TEMP-HREF <=.IOD>
+  </>.
+  <BODY> 
+  </>
+ </>
+</HTML>
