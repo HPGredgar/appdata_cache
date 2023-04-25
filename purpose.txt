@@ -1,8 +1,10 @@
-l<BODY>
+
+##
+<BODY>
  <TEMP-HREF=.BIO , "'" , ;>
-  <THREF> 'BIOS' , <".tgi",> = TEMP-HREF <=.IOD>
-  </>.
+ < <HREF> = .io >
+  </HREF>[]
   <BODY> 
-  </>
- </>
+  <dot.o = , ;; || <PEREIMETE::INDEX;;INTERGER> , ;; >
+   <HTTP=
 </HTML>
